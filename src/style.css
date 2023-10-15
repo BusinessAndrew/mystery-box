@@ -4592,8 +4592,11 @@ button {
   font-size: 24px !important;
 }
 
-
-.p-text-bold{
+.p-text-bold {
   font-size: 1rem;
   font-weight: bold;
+}
+
+.p-text {
+  font-size: 1rem;
 }
